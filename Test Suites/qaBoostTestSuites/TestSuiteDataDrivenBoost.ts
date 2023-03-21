@@ -39,4 +39,11 @@
          <variableId>34a0dad2-4ae9-4391-9af0-afa99b1a02a8</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>e68a4224-e907-4511-9d88-245d2b44f0cf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QaBoostSimpleTestcases/TestcaseBoost_Record</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
