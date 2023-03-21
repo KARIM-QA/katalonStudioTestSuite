@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rechercher</name>
+   <tag></tag>
+   <elementGuidId>f6afec4d-b590-410b-9f12-d612d30e3cf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn._prim._md.-mls.-fsh0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='search']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa3f4426-21a8-4019-abba-ad4ee025c551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn _prim _md -mls -fsh0</value>
+      <webElementGuid>b0dc0cd9-e116-4f57-a034-bdae16326be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rechercher</value>
+      <webElementGuid>32b21124-8df2-4ea3-ba79-11029253cf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/button[@class=&quot;btn _prim _md -mls -fsh0&quot;]</value>
+      <webElementGuid>c5eb2c5e-3fac-4b26-bb1f-ca94cd84dd98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search']/button</value>
+      <webElementGuid>6e1e9248-2cb1-4bd0-a782-f513845b3991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendez sur Jumia'])[1]/following::button[2]</value>
+      <webElementGuid>dc415c53-b3b3-4eb6-b33b-f488366bcbc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se connecter'])[1]/preceding::button[1]</value>
+      <webElementGuid>9e552a34-04e7-46be-a628-319a394dbb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se connecter'])[2]/preceding::button[1]</value>
+      <webElementGuid>20f82342-0595-4cf2-ad55-4cf4f155278e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rechercher']/parent::*</value>
+      <webElementGuid>5f6ef7f2-1b26-400a-b9d3-5efb75150a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>be1c6d36-f2dc-4183-a5d4-afb98c4d2961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Rechercher' or . = 'Rechercher')]</value>
+      <webElementGuid>1db0c693-c25b-402c-8703-b78673ab8969</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

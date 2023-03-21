@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuiteDataDrivenBoost</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>kerim.laaribi@gmail.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a5c89432-21e9-4ec6-8b0e-649479779ae5</testSuiteGuid>
+   <testCaseLink>
+      <guid>f47c5a21-3f90-4e37-b466-c0b34e32cf26</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QaBoostDataDrivenTestcases/TestcaseDataDrivenBoost</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>50e8b54f-ac1e-4137-8e0b-07d937680370</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/OrangeHrmCredentiels/Credentiels</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>50e8b54f-ac1e-4137-8e0b-07d937680370</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>1702b919-aff3-453b-a635-329133a9c320</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>50e8b54f-ac1e-4137-8e0b-07d937680370</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>34a0dad2-4ae9-4391-9af0-afa99b1a02a8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
